@@ -1,7 +1,11 @@
 # Blog 序
 
-## 終於 RRR
+## 重新!!! ##
 
-我終於把 vuepress 建起來了...
+呼~我搞了一個晚上我把整個網頁都刪掉
 
-順帶，我還建立了自動導覽列及自動側邊欄，真的是搞死我了...
+因為**4everland**裡我的reject**class-note**的state出現**failure**
+
+因為我不知道是什麼狀況，所以我就除建了一個新的class-note
+
+連**Github**的class-note也是。
